@@ -1,0 +1,68 @@
+
+/*ESERCIZIO 11*/
+
+/* .navbar {
+    transition: background-color 0.3s, height 0.3s;
+}
+.navbar.scrolled {
+    background-color: violet; 
+    height: 80px; 
+}
+.navbar-default {
+    background-color: #f8f9fa; 
+    height: 100px; 
+}
+h1{
+    height: 2000px; 
+    padding-top: 120px;
+    text-align: center;
+} */
+/*--------------------------------------------------------------------------------------------------*/
+
+
+/*ESERCIZIO 12*/
+
+/* body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+.calculator {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+.calculator label {
+    font-size: 16px;
+    margin: 8px 0;
+    display: block;
+}
+.calculator input, .calculator select, .calculator button {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.calculator button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+.calculator button:hover {
+    background-color: #45a049;
+}
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    margin-top: 10px;
+} */
